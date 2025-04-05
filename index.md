@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Current Projects 
 
 [Break Out Game](/sample_page)
 <img src="images/BreakOut.png?raw=true"/>
@@ -16,6 +16,12 @@
 <img src="images/Blog.png?raw=true"/>
 
 ---
+[Water Mark Adder]
+<img src="images/WaterMark.png?raw=true"/>
+
+---
+[Dogs HTML]
+<img src="images/Dogs.png?raw=true"/>
 
 ### Category Name 2
 
