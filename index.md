@@ -4,11 +4,11 @@
 
 ### Current Projects 
 
-[Break Out Game](/sample_page)
+[Break Out Game](http://example.com/)
 <img src="images/BreakOut.png?raw=true"/>
 
 ---
-[Typing Test](/pdf/sample_presentation.pdf)
+[Typing Test](http://example.com/)
 <img src="images/TypingTest.png?raw=true"/>
 
 ---
@@ -16,20 +16,20 @@
 <img src="images/Blog.png?raw=true"/>
 
 ---
-[Water Mark Adder]
+[Water Mark Adder](http://example.com/)
 <img src="images/WaterMark.png?raw=true"/>
 
 ---
-[Dogs HTML]
+[Dogs HTML](http://example.com/)
 <img src="images/Dogs.png?raw=true"/>
 
-### Category Name 2
+### Project Links
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Break Out Game](http://example.com/)
+- [Typing Test](http://example.com/)
+- [Blog](http://example.com/)
+- [Water Mark Adder](http://example.com/)
+- [Dogs HTML](http://example.com/)
 
 ---
 
