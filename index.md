@@ -8,12 +8,12 @@
 <img src="images/BreakOut.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Typing Test](/pdf/sample_presentation.pdf)
+<img src="images/TypingTest.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Blog](http://example.com/)
+<img src="images/Blog.png?raw=true"/>
 
 ---
 
