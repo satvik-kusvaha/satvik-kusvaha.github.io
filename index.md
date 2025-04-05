@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Break Out Game](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/BreakOut.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
