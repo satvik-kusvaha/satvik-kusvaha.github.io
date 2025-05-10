@@ -23,13 +23,13 @@
 [Dogs HTML](https://github.com/satvik-kusvaha/Top3Dogs)
 <img src="images/Dogs.png?raw=true"/>
 
-### Project Links
+### Repository Links
 
-- [Break Out Game](http://example.com/)
-- [Typing Test](http://example.com/)
-- [Blog](http://example.com/)
-- [Water Mark Adder](http://example.com/)
-- [Dogs HTML](http://example.com/)
+- [Break Out Game](https://github.com/satvik-kusvaha/BreakOutGame)
+- [Typing Test](https://github.com/satvik-kusvaha/TypingSpeedTest)
+- [Blog](https://github.com/satvik-kusvaha/TVShowsBlog)
+- [Water Mark Adder](https://github.com/satvik-kusvaha/WatermarkAdder)
+- [Dogs HTML](https://github.com/satvik-kusvaha/Top3Dogs)
 
 ---
 
