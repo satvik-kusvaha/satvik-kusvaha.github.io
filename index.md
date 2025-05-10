@@ -4,7 +4,7 @@
 
 ### Current Projects 
 
-[Break Out Game](https://github.com/satvik-kusvaha/BreakOutGame)
+[Break Out Game](./sample_page.md)
 <img src="images/BreakOut.png?raw=true"/>
 
 ---
