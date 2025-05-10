@@ -1,6 +1,6 @@
 ## This can be your internal website page / project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** A simple yet well-structured web page made from scratch to showcase my HTML and CSS skills. The page features clean code organization, a responsive layout, and a user-friendly interface. It includes elements like a fully functional navigation bar, styled sections, and consistent design throughout. The project highlights my attention to detail in UI/UX and front-end best practices. It serves as a solid example of my ability to create polished, professional web pages.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
