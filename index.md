@@ -4,23 +4,23 @@
 
 ### Current Projects 
 
-[Break Out Game](./BreakOut_description)
+[Break Out Game](./BreakOut_Description.md)
 <img src="images/BreakOut.png?raw=true"/>
 
 ---
-[Typing Test](./TypingTest_Description)
+[Typing Test](./TypingTest_Description.md)
 <img src="images/TypingTest.png?raw=true"/>
 
 ---
-[Blog](./Blog_Description)
+[Blog](./Blog_Description.md)
 <img src="images/Blog.png?raw=true"/>
 
 ---
-[Water Mark Adder](./WaterMark_Description)
+[Water Mark Adder](./WaterMark_Description.md)
 <img src="images/WaterMark.png?raw=true"/>
 
 ---
-[Dogs HTML](./Dogs_Description)
+[Dogs HTML](./Dogs_Description.md)
 <img src="images/Dogs.png?raw=true"/>
 
 ### Repository Links
