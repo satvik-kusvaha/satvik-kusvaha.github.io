@@ -4,23 +4,23 @@
 
 ### Current Projects 
 
-[Break Out Game](./sample_page.md)
+[Break Out Game](./BreakOut_description)
 <img src="images/BreakOut.png?raw=true"/>
 
 ---
-[Typing Test](https://github.com/satvik-kusvaha/TypingSpeedTest)
+[Typing Test](./TypingTest_Description)
 <img src="images/TypingTest.png?raw=true"/>
 
 ---
-[Blog](https://github.com/satvik-kusvaha/TVShowsBlog)
+[Blog](./Blog_Description)
 <img src="images/Blog.png?raw=true"/>
 
 ---
-[Water Mark Adder](https://github.com/satvik-kusvaha/WatermarkAdder)
+[Water Mark Adder](./WaterMark_Description)
 <img src="images/WaterMark.png?raw=true"/>
 
 ---
-[Dogs HTML](https://github.com/satvik-kusvaha/Top3Dogs)
+[Dogs HTML](./Dogs_Description)
 <img src="images/Dogs.png?raw=true"/>
 
 ### Repository Links
