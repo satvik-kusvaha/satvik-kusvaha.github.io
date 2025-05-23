@@ -24,7 +24,7 @@
 <img src="images/Dogs.png?raw=true"/>
 
 [Cafe Finder](./CafeFinder_Description.md)
-<img src="img/FindCafes.png?raw=true"/>
+<img src="images/FindCafes.png?raw=true"/>
 
 ### Repository Links
 
