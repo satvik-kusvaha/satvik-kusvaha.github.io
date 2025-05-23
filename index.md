@@ -23,7 +23,7 @@
 [Dogs HTML](./Dogs_Description.md)
 <img src="images/Dogs.png?raw=true"/>
 
-[Cafe Finder](./CafeFind_Description.md)
+[Cafe Finder](./CafeFinder_Description.md)
 <img src="img/FindCafes.png?raw=true"/>
 
 ### Repository Links
