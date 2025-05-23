@@ -23,6 +23,9 @@
 [Dogs HTML](./Dogs_Description.md)
 <img src="images/Dogs.png?raw=true"/>
 
+[Cafe Finder](./FindCafes_Description.md)
+<img src="img/FindCafes.png?raw=True"/>
+
 ### Repository Links
 
 - [Break Out Game](https://github.com/satvik-kusvaha/BreakOutGame)
