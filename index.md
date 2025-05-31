@@ -9,22 +9,22 @@
 
 ---
 [Typing Test](./TypingTest_Description.md)
-<img src="images/TypingTest.png?raw=true"/>
+<a href="https://github.com/satvik-kusvaha/TypingSpeedTest"><img src="images/TypingTest.png?raw=true"/></a>
 
 ---
 [Blog](./Blog_Description.md)
-<img src="images/Blog.png?raw=true"/>
+<a href="https://github.com/satvik-kusvaha/TVShowsBlog"><img src="images/Blog.png?raw=true"/></a>
 
 ---
 [Water Mark Adder](./WaterMark_Description.md)
-<img src="images/WaterMark.png?raw=true"/>
+<a href="https://github.com/satvik-kusvaha/WatermarkAdder"><img src="images/WaterMark.png?raw=true"/></a>
 
 ---
 [Dogs HTML](./Dogs_Description.md)
-<img src="images/Dogs.png?raw=true"/>
+<a href="https://github.com/satvik-kusvaha/Top3Dogs"><img src="images/Dogs.png?raw=true"/></a>
 
 [Cafe Finder](./CafeFinder_Description.md)
-<img src="images/FindCafes.png?raw=true"/>
+<a href="https://github.com/satvik-kusvaha/FindCafes"><img src="images/FindCafes.png?raw=true"/></a>
 
 ### Repository Links
 
