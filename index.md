@@ -33,7 +33,7 @@
 - [Blog](https://github.com/satvik-kusvaha/TVShowsBlog)
 - [Water Mark Adder](https://github.com/satvik-kusvaha/WatermarkAdder)
 - [Dogs HTML](https://github.com/satvik-kusvaha/Top3Dogs)
-- [Cafe Find](https://github.com/satvik-kusvaha/FindCafes)
+- [Cafe Finder](https://github.com/satvik-kusvaha/FindCafes)
 
 ---
 
