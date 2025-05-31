@@ -5,7 +5,7 @@
 ### Current Projects 
 
 [Break Out Game](./BreakOut_Description.md)
-<img src="images/BreakOut.png?raw=true"/>
+<a href="https://github.com/satvik-kusvaha/BreakOutGame"><img src="images/BreakOut.png?raw=true"/></a>
 
 ---
 [Typing Test](./TypingTest_Description.md)
