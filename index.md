@@ -12,6 +12,7 @@
 **Goal:** Create an interactive browser-based game that demonstrates core programming concepts such as collision detection, animation, and increasing difficulty using responsive design principles.
 
 **Result:** Successfully developed a fully playable Breakout game with smooth mechanics displaying my python skills specifically with the tkinter library.
+
 ---
 [Typing Test](./TypingTest_Description.md)
 <a href="https://github.com/satvik-kusvaha/TypingSpeedTest"><img src="images/TypingTest.png?raw=true"/></a>
@@ -21,6 +22,7 @@
 **Goal:** Build a website that measures typing speed and accuracy, while showcasing skills in Python programming and GUI development with Tkinter.
 
 **Result:** Successfully developed a functional and user-friendly typing test that calculates real-time performance metrics. This demonstrates my ability to implement event-driven programming.
+
 ---
 [Blog](./Blog_Description.md)
 <a href="https://github.com/satvik-kusvaha/TVShowsBlog"><img src="images/Blog.png?raw=true"/></a>
@@ -30,6 +32,7 @@
 **Goal:** Build a functional blog website while demonstrating skills with SQL database integration, user authentication, CRUD operations, and more, while also creating a clean, responsive user interface.
 
 **Result:** Developed a blog platform where users can register, log in, post, comment, manage blogs, and more. 
+
 ---
 [Water Mark Adder](./WaterMark_Description.md)
 <a href="https://github.com/satvik-kusvaha/WatermarkAdder"><img src="images/WaterMark.png?raw=true"/></a>
@@ -39,6 +42,7 @@
 **Goal:** Create a simple, user-friendly application that allows users to add custom watermarks to images, demonstrating Python skills in file handling and image processing.
 
 **Result:** Successfully built a functional watermarking tool with a clean interface that supports image uploading and watermark positioning.
+
 ---
 [Dogs HTML](./Dogs_Description.md)
 <a href="https://github.com/satvik-kusvaha/Top3Dogs"><img src="images/Dogs.png?raw=true"/></a>
@@ -49,6 +53,7 @@
 
 **Result:** Created a visually appealing webpage. The project showcases my ability to structure content effectively.
 
+---
 [Cafe Finder](./CafeFinder_Description.md)
 <a href="https://github.com/satvik-kusvaha/FindCafes"><img src="images/FindCafes.png?raw=true"/></a>
 
