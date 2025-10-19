@@ -63,6 +63,9 @@
 
 **Result:** Created a fully functional cafe search tool with interactive filtering, detailed cafe views, and smooth navigation. The project highlights my ability to combine UI design with backend logic.
 
+---
+[Twitter Hate Speech Detector]
+[Search Application With Genrative AI]
 ### Repository Links
 
 - [Break Out Game](https://github.com/satvik-kusvaha/BreakOutGame)
