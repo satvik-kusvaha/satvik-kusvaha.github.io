@@ -4,13 +4,21 @@
 
 ### Current Projects 
 
-[Chatbot With Website]
+[Food Chatbot Website]
+<a href="https://github.com/satvik-kusvaha/FoodChatbot"><img src="images/BreakOut.png?raw=true"/></a>
+
 ---
 [Research Paper]
+<a href="https://github.com/satvik-kusvaha/Rational-Supervised-Transformer-ABSA"><img src="images/BreakOut.png?raw=true"/></a>
+
 ---
 [Stock Movement Classifier]
+<a href="https://github.com/satvik-kusvaha/Stock-Market-Prediction-Model"><img src="images/BreakOut.png?raw=true"/></a>
+
 ---
 [Classification Log]
+<a href="https://github.com/satvik-kusvaha/ClassificationLogs"><img src="images/BreakOut.png?raw=true"/></a>
+
 ---
 [Break Out Game](./BreakOut_Description.md)
 <a href="https://github.com/satvik-kusvaha/BreakOutGame"><img src="images/BreakOut.png?raw=true"/></a>
