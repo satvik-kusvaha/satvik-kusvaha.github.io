@@ -8,6 +8,10 @@
 ---
 [Research Paper]
 ---
+[Stock Movement Classifier]
+---
+[Classification Log]
+---
 [Break Out Game](./BreakOut_Description.md)
 <a href="https://github.com/satvik-kusvaha/BreakOutGame"><img src="images/BreakOut.png?raw=true"/></a>
 
