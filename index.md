@@ -13,7 +13,7 @@
 
 ---
 [Stock Movement Classifier]
-<a href="https://github.com/satvik-kusvaha/StockClassifier"><img src="images/BreakOut.png?raw=true"/></a>
+<a href="https://github.com/satvik-kusvaha/StockClassifier"><img src="images/StockApp.png?raw=true"/></a>
 
 ---
 [Classification Log]
