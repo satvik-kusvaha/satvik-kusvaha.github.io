@@ -12,7 +12,7 @@
 <a href="https://github.com/satvik-kusvaha/Rational-Supervised-Transformer-ABSA"><img src="images/BreakOut.png?raw=true"/></a>
 
 ---
-[Stock Movement Classifier]
+[Stock Movement Classifier](./StockApp_Description.md)
 <a href="https://github.com/satvik-kusvaha/StockClassifier"><img src="images/StockApp.png?raw=true"/></a>
 
 ---
