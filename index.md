@@ -5,7 +5,7 @@
 ### Current Projects 
 
 [Food Chatbot Website]
-<a href="https://github.com/satvik-kusvaha/FoodChatbot"><img src="images/BreakOut.png?raw=true"/></a>
+<a href="https://github.com/satvik-kusvaha/FoodChatbot"><img src="images/FoodChatbot.png?raw=true"/></a>
 
 ---
 [Research Paper]
