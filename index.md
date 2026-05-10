@@ -30,7 +30,7 @@
 **Result:** Developed a functional stock prediction app that visualizes real data and produces model-driven forecasts. The project showcases my ability to connect data visualization, machine learning, and front-end interaction into a cohesive product.
 
 ---
-[Classification Log](./ClassifcationLogs_Description.md)
+[Classification Log](./ClassificationLogs_Description.md)
 <a href="https://github.com/satvik-kusvaha/ClassificationLogs"><img src="images/ClassificationLogs.png?raw=true"/></a>
 
 **Project description:** An end-to-end AI-powered log classification system designed to automatically categorize system and application logs using a hybrid machine learning approach. The platform combines Regex pattern matching, BERT-based semantic classification, and Large Language Models (LLMs) to intelligently process and classify log messages from multiple sources. The system exposes a FastAPI backend where users can upload CSV files containing log data, and the application returns a processed CSV with predicted classifications. Regex-based classification handles structured and repetitive logs efficiently, while BERT embeddings with Logistic Regression classify more complex patterns. For legacy systems and ambiguous logs, an LLM-powered classifier provides contextual understanding and fallback categorization. Additional functionality includes CSV validation, file processing automation, and support for identifying recurring regex patterns using DBSCAN clustering techniques.
