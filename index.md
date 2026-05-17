@@ -17,7 +17,7 @@
 
 ---
 [Research Paper](https://github.com/satvik-kusvaha/Rational-Supervised-Transformer-ABSA)
-<a href="https://github.com/satvik-kusvaha/Rational-Supervised-Transformer-ABSA"><img src="images/BreakOut.png?raw=true"/></a>
+<a href="https://github.com/satvik-kusvaha/Rational-Supervised-Transformer-ABSA"><img src="images/ABSA Model.png?raw=true"/></a>
 
 **Project description:** A rationale-supervised Aspect-Based Sentiment Analysis (ABSA) research project focused on improving both sentiment prediction and model interpretability in natural language processing systems. I designed and compared a baseline BERT transformer model with a new multi-task transformer architecture that jointly performs sentiment classification and token-level rationale extraction. Using datasets such as SemEval 2015 ABSA and OATS ABSA, the project explored whether training models to identify explanatory rationale tokens could improve transparency and prediction quality. The architecture incorporated transformer embeddings, BiLSTM layers, token-level attention, residual connections, and joint-loss optimization to generate interpretable sentiment predictions.
 
