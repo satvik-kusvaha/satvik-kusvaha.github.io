@@ -16,8 +16,14 @@
 **Result:** Developed a fully functional food ordering chatbot where users can interact conversationally to place orders, modify them, complete purchases, and track order status, all backed by a structured database and scalable API architecture.
 
 ---
-[Research Paper](https://github.com/satvik-kusvaha/Rational-Supervised-Transformer-ABSA)
+[Research Paper on ABSA with Rational Supervised Transformers](https://github.com/satvik-kusvaha/Rational-Supervised-Transformer-ABSA)
 <a href="https://github.com/satvik-kusvaha/Rational-Supervised-Transformer-ABSA"><img src="images/BreakOut.png?raw=true"/></a>
+
+**Project description:** A rationale-supervised Aspect-Based Sentiment Analysis (ABSA) research project focused on improving both sentiment prediction and model interpretability in natural language processing systems. I designed and compared a baseline BERT transformer model with a new multi-task transformer architecture that jointly performs sentiment classification and token-level rationale extraction. Using datasets such as SemEval 2015 ABSA and OATS ABSA, the project explored whether training models to identify explanatory rationale tokens could improve transparency and prediction quality. The architecture incorporated transformer embeddings, BiLSTM layers, token-level attention, residual connections, and joint-loss optimization to generate interpretable sentiment predictions.
+
+**Goal:** Demonstrate skills in natural language processing, transformer-based deep learning, explainable AI, and multi-task machine learning by building a model capable of both aspect-level sentiment prediction and rationale extraction.
+
+**Result:** Developed a functional rationale-supervised ABSA model capable of identifying both sentiment polarity and the specific words influencing each prediction. While performance remained similar to the baseline transformer on a limited dataset, the model achieved stronger interpretability and outperformed explanation methods such as LIME and SHAP in rationale quality. The project demonstrates my ability to combine NLP research, transformer architectures, interpretability techniques, and experimental evaluation into a single cohesive system. The paper was published in the Athena Research Journal.
 
 ---
 [Stock Movement Classifier](https://github.com/satvik-kusvaha/StockClassifier)
