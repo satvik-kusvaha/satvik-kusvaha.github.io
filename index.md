@@ -129,7 +129,6 @@
 - [Machine Learning Fundamentals](https://learn.deeplearning.ai/specializations/machine-learning/lesson/bw6i6/welcome-to-machine-learning!)
 - [Deep Learning Fundamentals](https://learn.deeplearning.ai/specializations/deep-learning/lesson/bcazm/welcome?startTime=0)
 - [MicroSoft Generative AI For Beginners](https://github.com/microsoft/generative-ai-for-beginners)
-- 
 
 
 ---
