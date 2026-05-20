@@ -1,20 +1,39 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="UTF-8">
 
-    <title>{{ site.title }}</title>
+  <title>{{ site.title }}</title>
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  </head>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
-  <body>
-    <div class="wrapper">
-      <section>
-        {{ content }}
-      </section>
-    </div>
-  </body>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background: #fff;
+    }
+
+    .wrapper {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 40px;
+    }
+
+    section {
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrapper">
+    <section>
+      {{ content }}
+    </section>
+  </div>
+</body>
 </html>
